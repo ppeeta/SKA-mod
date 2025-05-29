@@ -126,6 +126,6 @@ var $plugins =
 {"name":"deploy/ska_steam","status":true,"description":"SKA Steam Deploy","parameters":{"steamMode":"false"}},
 {"name":"deploy/ska_demo","status":true,"description":"SKA Demo","parameters":{"demoMode":"false","maxDays":"40"}},
  {"name":"deploy/ska_deploy","status":true,"description":"SKA Deploy","parameters":{}},
-+{"name":"DisableGamepad","status":true,"description":"Disable Game-pad","parameters":{}}
+{"name":"DisableGamepad","status":true,"parameters":{}}
  ];
 
